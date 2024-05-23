@@ -40,4 +40,4 @@ I:
 Use data insights and Power BI dashboards to keep customers happy and engaged. Note: This version highlights the project's benefits for businesses and includes a clear call to action.
 
 CERTIFICATE BY PWC ( ALL POWER BI PROJECT TASK WAS GIVEN  BY PWC )
-(https://github.com/Amit380/Customer-Churn-Analysis/blob/main/Amit%20Gaud%20PWC%20(Power%20BI%20Certificate).png)
+![CERTIFICATE BY PWC](https://github.com/Amit380/Customer-Churn-Analysis/blob/main/Amit%20Gaud%20PWC%20(Power%20BI%20Certificate).png)
