@@ -13,7 +13,7 @@
 2. Excel
 
 ## Key Insights:
-![key insights]
+![key insights](https://github.com/Amit380/Customer-Churn-Analysis/blob/main/KEY%20INSIGHTS.png)
 
 
 ## **Benefits:**
