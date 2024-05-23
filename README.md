@@ -6,7 +6,7 @@
 📌 Predictive Churn Modeling: Identify at-risk customers before they churn, enabling proactive interventions and retention strategies.
 
 📌 Customer Segmentation: Group customers based on shared characteristics and churn risk, allowing for targeted marketing and engagement efforts.
-![Customer Churn Dashboard](
+![Customer Churn Dashboard](https://github.com/Amit380/Customer-Churn-Analysis/blob/main/Churn%20Dashboard.png)
 
 ## **Built with:**
 1. Power BI Desktop
@@ -20,7 +20,7 @@
 1. Reduce customer loss: Identify and help customers at risk to keep them longer.
 2. Improve customer satisfaction: Understand customer needs better for better service.
 3. Make data-driven decisions: Use insights to make better choices for keeping customers happy.
-![Customer Risk Analysis]
+![Customer Risk Analysis](https://github.com/Amit380/Customer-Churn-Analysis/blob/main/CUSTOMER%20RISK%20ANALYSIS%20DASHBOARD.png)
 
 ## **Beyond the Dashboard: Communication for Impact**
 Besides making great dashboards, I also help clients understand the data and make smart decisions with it. By sending clear emails,
